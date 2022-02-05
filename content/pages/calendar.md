@@ -4,21 +4,343 @@ title: Calendar
 uid: c51ded47-6fe8-99d5-e90a-a51201b18ce4
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction of Instructor and Students {{< br >}}{{< br >}} Overview and Discussion of the Syllabus {{< br >}}{{< br >}} Aim of the Course {{< br >}}{{< br >}} How to Read a Scientific Paper {{< br >}}{{< br >}} Literature and Database Searching {{< br >}}{{< br >}} Introduction to Next Week's Topic {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Part I: Defense Mechanisms Developed by Unicellular Organisms** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Recognition of Foreign Nucleic Acids {{< br >}}{{< br >}} The Restriction/Modification (R-M) System {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Recognition of Foreign Nucleic Acids {{< br >}}{{< br >}} RNAi {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Anti-microbial Peptides {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Altruistic Death {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Part II: The Transition to Multi-Cellularity Resulted in Cell Specialization** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} How are pathogens recognized by multi-cellular organisms? {{< br >}}{{< br >}} Pattern Recognition and Missing Self {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 1 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} How do multi-cellular organisms destroy pathogens? {{< br >}}{{< br >}} Phagocytosis {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} How do multi-cellular organisms destroy pathogens? {{< br >}}{{< br >}} Complement and Reactive Oxygen {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Part III: An Evolutionary Milestone: The Origin of an Adaptive Immune System** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Receptors of the Adaptive Immune System {{< br >}}{{< br >}} Antigen Recognition by Cells of the Adaptive Immune System Involves the Major Histocompatibility Complex (MHC) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Clonal Selection and Immunological Memory {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} How does the adaptive immune system interact with the innate immune system? {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Change or Die {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Student Oral Presentations {{< br >}}{{< br >}} Course Evaluations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 2 due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction of Instructor and Students
+
+Overview and Discussion of the Syllabus
+
+Aim of the Course
+
+How to Read a Scientific Paper
+
+Literature and Database Searching
+
+Introduction to Next Week's Topic
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Part I: Defense Mechanisms Developed by Unicellular Organisms**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recognition of Foreign Nucleic Acids
+
+The Restriction/Modification (R-M) System
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recognition of Foreign Nucleic Acids
+
+RNAi
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anti-microbial Peptides
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Altruistic Death
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Part II: The Transition to Multi-Cellularity Resulted in Cell Specialization**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How are pathogens recognized by multi-cellular organisms?
+
+Pattern Recognition and Missing Self
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do multi-cellular organisms destroy pathogens?
+
+Phagocytosis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do multi-cellular organisms destroy pathogens?
+
+Complement and Reactive Oxygen
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Part III: An Evolutionary Milestone: The Origin of an Adaptive Immune System**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Receptors of the Adaptive Immune System
+
+Antigen Recognition by Cells of the Adaptive Immune System Involves the Major Histocompatibility Complex (MHC)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clonal Selection and Immunological Memory
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How does the adaptive immune system interact with the innate immune system?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Change or Die
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Oral Presentations
+
+Course Evaluations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
