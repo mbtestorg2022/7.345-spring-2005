@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 91fd6730-2fd0-97b8-3bf6-240144b45f72
 resourcetype: Image
 title: Project 2 Animated GIF
 uid: daaebbf4-b1b9-dc96-681e-857996a53703

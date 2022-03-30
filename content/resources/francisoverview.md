@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 91fd6730-2fd0-97b8-3bf6-240144b45f72
 resourcetype: Image
 title: Project 2 Overview Figures
 uid: 40a965e5-82c3-2a80-83db-92f469b47516
